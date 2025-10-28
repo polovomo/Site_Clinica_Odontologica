@@ -1,4 +1,4 @@
-# 🦷 Sorriso Perfeito - Landing Page
+# 🦷 Crisal - Landing Page
 
 ![Banner do Projeto](https://images.unsplash.com/photo-1629909613654-28e377c37b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
@@ -6,7 +6,7 @@ Uma landing page moderna e responsiva para um consultório dentário fictício, 
 
 ## 📋 Sobre o Projeto
 
-A **Sorriso Perfeito** é uma clínica odontológica fictícia que oferece tratamentos dentários de alta qualidade. Este projeto consiste em uma landing page responsiva desenvolvida para divulgar os serviços, apresentar depoimentos de pacientes e facilitar o contato com potenciais clientes.
+A **Crisal** é uma clínica odontológica fictícia que oferece tratamentos dentários de alta qualidade. Este projeto consiste em uma landing page responsiva desenvolvida para divulgar os serviços, apresentar depoimentos de pacientes e facilitar o contato com potenciais clientes.
 
 **Objetivo**: Criar uma experiência digital profissional que transmita confiança, cuidado e modernidade, reforçando os conhecimentos em desenvolvimento front-end.
 
@@ -35,7 +35,7 @@ A **Sorriso Perfeito** é uma clínica odontológica fictícia que oferece trata
 ## 🏗️ Estrutura do Projeto
 
 ````
-projetoSorrisoPerfeito/
+projetoCrisal/
 │
 ├── index.html # Página principal
 ├── styles/
